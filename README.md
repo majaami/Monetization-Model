@@ -39,6 +39,8 @@ Recommendations:
 
 Users who build Satellite Orbital Assembly may be more profitable users in terms of ad viewing due to the higher number of events initiated by them in the events and longer time needed in order to complete stage 1.
 
+
+
 It is recommended to divert Facebook ads budget towards Google Play ads.
 
 ![image](https://user-images.githubusercontent.com/26043577/133156748-80822a7e-d68a-4fc6-b08a-2811f3e1cff5.png)
@@ -46,6 +48,9 @@ It is recommended to divert Facebook ads budget towards Google Play ads.
 ![image](https://user-images.githubusercontent.com/26043577/133156818-5dd2be24-87a8-47b9-ba79-8e3db7565bfc.png)
 
 ![image](https://user-images.githubusercontent.com/26043577/133156889-5e20e728-00d1-44fa-9a07-3e8341e95804.png)
+
+
+![image](https://user-images.githubusercontent.com/26043577/133157981-3105d414-5bef-46b8-a911-4261f374f650.png)
 
 
 Porposed Monetization Model: CPM (Cost per Mille) with an ad showing each time a user initiate an event- building.
