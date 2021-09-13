@@ -23,7 +23,18 @@ The number of users participating in the analysed cohort: 13 576
 
 ![image](https://user-images.githubusercontent.com/26043577/133155975-d8a9a1d0-6ad3-4d5d-a6ed-54adfb198ace.png)
 
+In order to check whether it takes the average number of building built by users who finished stage 1 by Satellite Orbital Assembly or by defeating the first boss is the same, we will use test for comparing two population means.
 
+The significance level chosen for this test is 0.05
+
+H0= Average number of building built by users who finished stage 1 by Satellite Orbital Assembly or by defeating the first boss is the same;
+
+H1= Average number of building built by users who finished stage 1 by Satellite Orbital Assembly or by defeating the first boss is different.
+
+ 
+![4C49D053-7C63-4A93-A847-11CEC73289EF_4_5005_c](https://user-images.githubusercontent.com/26043577/133157417-7cb751e5-9ba8-456c-9409-2e9e1745b827.jpeg)
+
+ 
 Recommendations:
 
 Users who build Satellite Orbital Assembly may be more profitable users in terms of ad viewing due to the higher number of events initiated by them in the events and longer time needed in order to complete stage 1.
